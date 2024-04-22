@@ -1,0 +1,20 @@
+{
+  "name": "cluster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "single-cluster": "node single-cluster.js",
+    "multi-cluster": "node multi-cluster.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "artillery": "^2.0.10"
+  }
+}

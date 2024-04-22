@@ -1,0 +1,26 @@
+{[
+    {
+        "name": "Mark",
+        "age": 32,
+        "company": "Microsoft"
+    },
+    {
+        "name": "Jay",
+        "age": 24,
+        "company": "Adobe"
+    },  {
+        "name": "Ramesh",
+        "age": 28,
+        "company": "Apple"
+    },
+    {
+        "name": "Ali",
+        "age": 38,
+        "company": "Google"
+    },
+    {
+        "name": "Adrian",
+        "age": 29,
+        "company": "Netflix"
+    },
+]}

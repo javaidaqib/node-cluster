@@ -1,0 +1,11 @@
+config:
+  target: "http://localhost:6000"
+  phases:
+    - duration: 30
+      arrivalRate: 100
+
+scenarios:
+  - name: "Testing load on expensive route"
+    flow:
+      - get:
+          url: "/expensive-route"
